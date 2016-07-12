@@ -40,6 +40,7 @@
 		CCDDE16D1B74058200DFC04B /* LDFlagConfigModelTest.m in Sources */ = {isa = PBXBuildFile; fileRef = CCDDE16C1B74058200DFC04B /* LDFlagConfigModelTest.m */; };
 		CCDDE1741B7408F200DFC04B /* feature_flags.json in Resources */ = {isa = PBXBuildFile; fileRef = CCDDE1731B7408F200DFC04B /* feature_flags.json */; };
 		CCEF66011BAF41FB00103FD5 /* DarklyXCTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = CCEF66001BAF41FB00103FD5 /* DarklyXCTestCase.m */; };
+		E35C4E341D357B7F000A9968 /* DarklyConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A70A7961B705F2C00984E23 /* DarklyConstants.m */; };
 		E52B3EB8C8E800E2ED2BE540 /* libPods-Darkly.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D4123AB55EABA4FCD91AD877 /* libPods-Darkly.a */; };
 /* End PBXBuildFile section */
 
@@ -681,6 +682,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E35C4E341D357B7F000A9968 /* DarklyConstants.m in Sources */,
 				3AB1B71A1B89036A0006E970 /* LDRequestManagerTest.m in Sources */,
 				CC4E8F431B8ABB3500F2A19D /* LDEventModelTest.m in Sources */,
 				CC01CCE31BB07703006B4A36 /* NSArray+UnitTests.m in Sources */,
